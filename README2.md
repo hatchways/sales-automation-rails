@@ -1,1 +1,0 @@
-# sales-crm-rails-assessment
