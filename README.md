@@ -1,12 +1,8 @@
 ## Rails CRM App
 
-# Versions
+This project has two parts to it:
 
-Decided to use:
+- a server folder that contains the back-end Rails app
+- a client folder that contains the front-end React app (based on create-react-app)
 
-- Rails 6 (latest stable version)
-- Ruby 2.7 (why? https://mavtipi.medium.com/should-you-upgrade-to-ruby-3-284adbf8f70a)
-
-# Set up
-
-Use https://betterprogramming.pub/build-a-rails-api-with-jwt-61fb8a52d833 to setup basic auth server
+To get the app running, run the client and server separately. The app should be able to talk to each other using the proxy setup in `client/package.json`.
