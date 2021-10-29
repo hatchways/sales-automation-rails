@@ -1,4 +1,4 @@
-## Rails CRM App
+## Rails Sales Automation App
 
 This project has two parts to it:
 
